@@ -1,0 +1,3 @@
+[submodule "meta-poky"]
+	path = meta-poky
+	url = git://git.yoctoproject.org/poky.git
